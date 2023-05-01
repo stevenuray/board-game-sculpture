@@ -3,7 +3,7 @@ import neopixel
 import time
 
 # Constants
-NUM_PIXELS = 30  # Number of pixels in the strip
+NUM_PIXELS = 90  # Number of pixels in the strip
 PIN = board.D7   # Data pin connected to the NeoPixel strip
 BRIGHTNESS = 0.3 # Brightness level (0 to 1)
 
